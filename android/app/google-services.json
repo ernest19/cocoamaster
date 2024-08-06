@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "924131185521",
+    "project_id": "cocoa-master",
+    "storage_bucket": "cocoa-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924131185521:android:cebe07431e2a97f97a5cd0",
+        "android_client_info": {
+          "package_name": "com.afarinick.cj.cocoamaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924131185521-9l6b0vbp9h90ojo2dh81ufsm2gn2fnd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afarinick.cj.cocoamaster",
+            "certificate_hash": "7258281f524d5c698176be064b6ac3e58eca398a"
+          }
+        },
+        {
+          "client_id": "924131185521-vvvgn3gu6vk4iloam4nrauivlfouu1hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mzoDAuYCi97VD-F6jLeUtjUASuLiaVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924131185521-vvvgn3gu6vk4iloam4nrauivlfouu1hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924131185521-raprqdabc10fn6pl8ec4ujab81p47gal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afarinick.cj.cocoamaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
